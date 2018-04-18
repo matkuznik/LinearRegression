@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Dimensional",
+        "repositoryURL": "git@github.com:matkuznik/Dimensional.git",
+        "state": {
+          "branch": "master",
+          "revision": "969bfd3a53e8c615ca5f88464f6720f5df54a605",
+          "version": null
+        }
+      },
+      {
+        "package": "MathTools",
+        "repositoryURL": "https://github.com/matkuznik/MathTools",
+        "state": {
+          "branch": null,
+          "revision": "2f0caf5bfa5b27caeaaea7cf3e387be10614bcee",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
